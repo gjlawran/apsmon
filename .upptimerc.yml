@@ -10,13 +10,7 @@ sites:
     url: https://news.api.gov.bc.ca/api/Home?api-version=1
   - name: Address Geocoder
     url: https://geocoder.api.gov.bc.ca/addresses.json?addressString=525%20Superior%20Street%2C%20Victoria%2C%20BC
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

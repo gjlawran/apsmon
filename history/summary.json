@@ -4,9 +4,9 @@
     "url": "https://catalogue.data.gov.bc.ca/dataset?type=WebService&download_audience=Public",
     "icon": "https://favicons.githubusercontent.com/catalogue.data.gov.bc.ca",
     "slug": "bcdc-ap-is-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 695,
     "timeMonth": 563,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   },
   {
     "name": "BCGov News API",

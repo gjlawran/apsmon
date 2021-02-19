@@ -1,7 +1,7 @@
 url: https://news.api.gov.bc.ca/api/Home?api-version=1
-status: down
-code: 503
-responseTime: 392
-lastUpdated: 2021-02-19T18:46:50.466Z
+status: up
+code: 200
+responseTime: 533
+lastUpdated: 2021-02-19T18:57:22.052Z
 startTime: Thu Jan 28 2021 06:47:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

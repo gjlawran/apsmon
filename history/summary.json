@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/catalogue.data.gov.bc.ca",
     "slug": "bcdc-ap-is-list",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
-    "time": 702,
-    "timeDay": 3183,
-    "timeWeek": 1128,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 699,
+    "timeDay": 621,
+    "timeWeek": 1110,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2021-02-09": 408
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 627,
-    "timeWeek": 526,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 556,
+    "timeDay": 374,
+    "timeWeek": 502,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 505,
-    "timeWeek": 466,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 356,
+    "timeDay": 335,
+    "timeWeek": 440,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   }
 ]

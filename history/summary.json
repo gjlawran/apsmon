@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/catalogue.data.gov.bc.ca",
     "slug": "bcdc-ap-is-list",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.67%",
     "uptimeDay": "94.78%",
     "uptimeWeek": "99.25%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 687,
     "timeDay": 476,
     "timeWeek": 1008,
@@ -43,9 +43,9 @@
     "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=525%20Superior%20Street%2C%20Victoria%2C%20BC",
     "icon": "https://favicons.githubusercontent.com/geocoder.api.gov.bc.ca",
     "slug": "address-geocoder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 448,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 0
+    }
   }
 ]

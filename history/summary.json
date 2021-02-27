@@ -26,9 +26,9 @@
     "url": "https://news.api.gov.bc.ca/api/Home?api-version=1",
     "icon": "https://favicons.githubusercontent.com/news.api.gov.bc.ca",
     "slug": "bc-gov-news-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 500,
     "timeMonth": 538,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-27": 0
+    }
   },
   {
     "name": "Address Geocoder",

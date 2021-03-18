@@ -1,7 +1,7 @@
 url: https://geocoder.api.gov.bc.ca/addresses.json?addressString=525%20Superior%20Street%2C%20Victoria%2C%20BC
 status: up
 code: 200
-responseTime: 464
-lastUpdated: 2021-03-17T23:05:12.413Z
+responseTime: 214
+lastUpdated: 2021-03-18T23:05:20.531Z
 startTime: Thu Jan 28 2021 06:47:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

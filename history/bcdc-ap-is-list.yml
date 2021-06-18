@@ -1,7 +1,7 @@
 url: https://catalogue.data.gov.bc.ca/dataset?type=WebService&download_audience=Public
-status: down
-code: 500
-responseTime: 294
-lastUpdated: 2021-06-18T08:26:28.621Z
+status: up
+code: 200
+responseTime: 759
+lastUpdated: 2021-06-18T08:45:35.185Z
 startTime: Thu Jan 28 2021 06:47:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

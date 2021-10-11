@@ -4,7 +4,7 @@
     "url": "https://catalogue.data.gov.bc.ca/dataset?type=WebService&download_audience=Public",
     "icon": "https://favicons.githubusercontent.com/catalogue.data.gov.bc.ca",
     "slug": "bcdc-ap-is-list",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
     "uptimeDay": "98.68%",
     "uptimeWeek": "99.81%",
